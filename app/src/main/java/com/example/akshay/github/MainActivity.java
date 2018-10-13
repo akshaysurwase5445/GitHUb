@@ -11,14 +11,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void doSomeWork(){
-
-        int i=11;
-        int k=66;
+        int i=22;
+        int k=77;
 
 
         if(i<=100){
-
+            i=50;
         }
-
     }
 }
