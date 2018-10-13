@@ -12,12 +12,12 @@ public class MainActivity extends AppCompatActivity {
     }
     public void doSomeWork(){
 
-        int i=11;
-        int k=66;
+        int i=13;
+        int k=663;
 
 
         if(i<=100){
-
+              String test ="test";
         }
 
     }
